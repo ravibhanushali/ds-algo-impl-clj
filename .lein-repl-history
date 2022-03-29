@@ -1,0 +1,2 @@
+(ns ds-algo-impl-clj.arrays)
+(is-anagram? "hell" "lleh")
